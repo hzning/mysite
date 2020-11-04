@@ -76,7 +76,6 @@ LOGGING = {
             'class': 'django.utils.log.AdminEmailHandler',
         }
     },
-    },
     'loggers': {
         'django': {
             'handlers': ['file'],
